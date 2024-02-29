@@ -5,8 +5,5 @@
 * The playlists are generated dynamically with the help of JavaScript DOM Manipulation.
 * Here is a video walkthrough of the working web app: 
 
-
-* [Watch Video]
-
 https://github.com/mohit-41/Spotify-Clone/assets/133521400/b52b6358-86e7-48a3-9afc-9cc81456e043
 
