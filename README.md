@@ -5,6 +5,7 @@
 * The playbar has all the necessary features like play,pause,next,previous, volume control and time and duration control.
 * The playlists are generated dynamically with the help of JavaScript DOM Manipulation.
 * Here is a video walkthrough of the working web app: 
+https://github.com/mohit-41/Spotify-Clone/assets/133521400/604d207d-96b2-4f59-83a0-f61c4e885d1e
 
-https://github.com/mohit-41/Spotify-Clone/assets/133521400/b52b6358-86e7-48a3-9afc-9cc81456e043
+
 
